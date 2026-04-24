@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dogify"
+  short_description: "把每个例句的主角改成狗"
+  default_prompt: "/dogify"
