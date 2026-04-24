@@ -1,0 +1,4 @@
+interface:
+  display_name: "F"
+  short_description: "先翻译再狗化并生成图片提示"
+  default_prompt: "/f"
