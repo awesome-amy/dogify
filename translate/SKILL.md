@@ -11,7 +11,7 @@ Use these instructions:
 - 按照下面的一次示例来组织格式与语气：
 
   输入示例：
-  `translate to Chinese: "gewachsen: 〈in der Verbindung〉 jmdm., etw. gewachsen sein (einem überlegenen standhalten, eine Aufgabe bewältigen, jmdm., etw. Widerpart geben können): seinem Gegner, einem Redner, einem Problem, der Situation g. sein; einem solchen Ton war ich nicht g."`
+  `gewachsen: 〈in der Verbindung〉 jmdm., etw. gewachsen sein (einem überlegenen standhalten, eine Aufgabe bewältigen, jmdm., etw. Widerpart geben können): seinem Gegner, einem Redner, einem Problem, der Situation g. sein; einem solchen Ton war ich nicht g.`
 
   输出示例：
   ```
