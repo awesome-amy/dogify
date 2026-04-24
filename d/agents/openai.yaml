@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dog German Diary Post"
+  short_description: "多图+词义生成狗狗德语日记小红书学习文案"
+  default_prompt: "$d [Image #1] [Image #2] ... [Image #6] <词义文本>"
