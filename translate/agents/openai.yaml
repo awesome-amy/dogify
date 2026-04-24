@@ -1,0 +1,4 @@
+interface:
+  display_name: "Translate"
+  short_description: "德语词条整理为德中对照"
+  default_prompt: "/translate"
