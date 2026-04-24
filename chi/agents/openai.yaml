@@ -1,4 +1,4 @@
 interface:
-  display_name: "Translate"
+  display_name: "Chi"
   short_description: "德语词条整理为德中对照"
-  default_prompt: "/translate"
+  default_prompt: "/chi"

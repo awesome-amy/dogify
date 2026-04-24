@@ -1,9 +1,9 @@
 ---
-name: translate
-description: Extremely lightweight /translate skill for German→Chinese learning notes. Use when a German headword/phrase and examples should be reformatted into clean Chinese-annotated output that preserves German originals.
+name: chi
+description: Extremely lightweight /chi skill for German→Chinese learning notes. Use when a German headword/phrase and examples should be reformatted into clean Chinese-annotated output that preserves German originals.
 ---
 
-# Translate (German → Chinese)
+# Chi (German → Chinese)
 
 Use these instructions:
 - 输入是德语词条/短语及相关例句。
