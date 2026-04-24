@@ -36,6 +36,8 @@ description: Generate XiaoHongShu-style “狗狗德语日记” learning posts 
    - `📖 Heute`
    - `🦮 今日小狗单词：`
    - `💬 小狗总结`
+   - 空白分隔行（保留一行空行）
+   - 结尾 3 个标签：`#德语学习 #德语单词 #AI图片`
 
 ## 写作要点（重要）
 
@@ -53,6 +55,9 @@ description: Generate XiaoHongShu-style “狗狗德语日记” learning posts 
 - `💬 小狗总结`：
   - 只写一句轻松、可爱或反差感总结。
   - 采用“德语 (中文翻译）”的格式。
+- 在 `💬 小狗总结` 与标签之间，必须保留一行空白行（即中间空一行，不添加任何字符）。
+- 结尾标签必须且仅能是：`#德语学习 #德语单词 #AI图片`
+- 全文总长度必须 `<= 1000` 字符（包含空格、换行、标点、表情和标签）。
 - 模仿示例的写作风格
 
 ## 示例
@@ -119,3 +124,5 @@ einem solchen Ton nicht gewachsen sein，就是承受不了这样的语气或声
 
 💬 小狗总结
 Ich bin stark… aber nicht immer 😆（我很厉害，但也不是每次都行哈哈）
+
+#德语学习 #德语单词 #AI图片
